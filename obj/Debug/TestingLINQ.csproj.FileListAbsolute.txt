@@ -1,0 +1,11 @@
+D:\proGaystvo\c#\TestingLINQ\bin\Debug\TestingLINQ.exe.config
+D:\proGaystvo\c#\TestingLINQ\bin\Debug\TestingLINQ.exe
+D:\proGaystvo\c#\TestingLINQ\bin\Debug\TestingLINQ.pdb
+D:\proGaystvo\c#\TestingLINQ\obj\Debug\TestingLINQ.csproj.AssemblyReference.cache
+D:\proGaystvo\c#\TestingLINQ\obj\Debug\TestingLINQ.csproj.SuggestedBindingRedirects.cache
+D:\proGaystvo\c#\TestingLINQ\obj\Debug\TestingLINQ.Form1.resources
+D:\proGaystvo\c#\TestingLINQ\obj\Debug\TestingLINQ.Properties.Resources.resources
+D:\proGaystvo\c#\TestingLINQ\obj\Debug\TestingLINQ.csproj.GenerateResource.cache
+D:\proGaystvo\c#\TestingLINQ\obj\Debug\TestingLINQ.csproj.CoreCompileInputs.cache
+D:\proGaystvo\c#\TestingLINQ\obj\Debug\TestingLINQ.exe
+D:\proGaystvo\c#\TestingLINQ\obj\Debug\TestingLINQ.pdb
